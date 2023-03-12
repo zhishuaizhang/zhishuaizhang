@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is Zhishuai Zhang, a research geophysicist at Chevron.
+
 <!--
 **zhishuaizhang/zhishuaizhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
